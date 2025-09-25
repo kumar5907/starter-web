@@ -16,7 +16,7 @@ Sample website with plenty of files for demos
 steps to deploy the application
 
 ## How to Contribute
-which all teams can contribute to this application
+Please fork this repository and then issue pull request 
 
 ## Copyright
 
