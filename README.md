@@ -17,3 +17,7 @@ steps to deploy the application
 
 ## How to Contribute
 which all teams can contribute to this application
+
+## Copyright
+
+2025
