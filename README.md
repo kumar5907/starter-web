@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work , Adding a line for rebas
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Purpose is to learn git commands Sample website with plenty of files for demos
 
 ## Testing
  Unit Test cases covere
